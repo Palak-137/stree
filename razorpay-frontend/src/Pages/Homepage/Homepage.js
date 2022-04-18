@@ -13,7 +13,7 @@ function Homepage() {
               <div class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up">
                 <div>
                   <h1>One World One UPI</h1>
-                  <h2>Lorem ipsum dolor sit amet, tota senserit percipitur ius ut, usu et fastidii forensibus voluptatibus. His ei nihil feugait</h2>
+                  <h2>UPI is amongst the most successful real-time payments (RTP) systems globally, providing – simplicity, safety, and security in P2P and P2M transactions in India. </h2>
                   <Link to="/pay" class="download-btn"><i class="bx bxl-play-store"></i> Pay Now </Link>
                   <Link to="/tax" class="download-btn"><i class="bx bxl-apple"></i> Learn the returns </Link>
                 </div>
