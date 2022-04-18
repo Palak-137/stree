@@ -1,0 +1,28 @@
+#pay .pay-form{
+    display: flex;
+    flex-direction: row;
+    margin: 5%;
+    padding: 2%;
+}
+#pay .image-fluid{
+    width: 90%;
+    height: 20%;
+    display: flex;
+    align-items: center;
+}
+#pay .pay-form .col{
+    width: 50%;
+    height: 100vw;
+}
+#pay .select2{
+    height:40px !important;
+    margin-bottom: 15px;
+}
+#pay .select2-container .select2-selection--single{
+    height:34px !important;
+}
+
+#pay .select2-container--default .select2-selection--single{
+         border: 1px solid #ccc !important; 
+     border-radius: 0px !important; 
+}
