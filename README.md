@@ -1,13 +1,16 @@
-# nodejs-razorpay
+# Stree
 
 > <Subtitle>
-> A simple Node.js application with React frontend for making payments with Razorpay
+> Allow everyone from anywhere to pay using UPI, making the payment more transparent and faster.
 
 ---
 
 ## Features
 
-- Payment gateway using Razorpay API
+- Pay Anywhere with UPI
+- Real time money transfer
+- No hidden charges
+- No middleman involved
 
 ## Instructions to run
 
@@ -28,6 +31,10 @@ $ npm install
 $ npm start
 ```
 
-## Contributors
+  <h4>
+    Made with ❤
+   
+  </h4>
+  
 
 
